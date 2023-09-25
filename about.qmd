@@ -1,6 +1,6 @@
 ---
-title: "Dylan Steberg's Blog"
-image: profile.jpg
+title: "About"
+image: headshot.jpg
 about:
   template: jolla
   links:
